@@ -23,3 +23,4 @@ prueba3cmd
 testcmdcmd
 start2
 start3
+start2 funciona!
