@@ -22,3 +22,4 @@ prueba2cmd
 prueba3cmd
 testcmdcmd
 start2
+start3
