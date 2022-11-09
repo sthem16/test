@@ -18,3 +18,5 @@ cambioPython2
 holaaaa
 prueba prueba
 prueba desde cmd
+prueba2cmd
+prueba3cmd
