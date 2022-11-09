@@ -20,3 +20,4 @@ prueba prueba
 prueba desde cmd
 prueba2cmd
 prueba3cmd
+testcmdcmd
