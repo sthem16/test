@@ -1,16 +1,1 @@
-hola2022-11-07 11:43:05.248729 - The script ran 
-prueba 15Nov
-prueba 15Nov
-prueba 15Nov
-prueba 15Nov 2
-prueba 15Nov 3
-prueba 15Nov 4
-prueba 15Nov 5
-prueba 15Nov 6
-prueba 16Nov 1
-prueba 16Nov 2
-prueba 16Nov 33
-prueba 16Nov start.bat
-prueba 16Nov schedulertask
-prueba 16Nov schedulertaskqezrzerzrzr
 prueba python
