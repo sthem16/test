@@ -6,3 +6,4 @@ test 17Nov Antony script .sh bureau
 test 17Nov Antony script .sh bureauqetgrehjè_i$:;,nbv
 prueba date
 dfsfsdfs
+os.system
